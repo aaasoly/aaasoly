@@ -1,9 +1,11 @@
-<p align="center">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=Hola!&fontSize=90&desc=This%20is%20Hansol&descAlign=55&descAlignY=65&)
 <br>
 
 </p>
+
+<br>
 
 
 <p align="center">
@@ -18,7 +20,7 @@
 
 
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
 <img src="http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="http://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> 
 <br>
@@ -27,10 +29,11 @@
 </p>
 
 <br>
+<br>
 
 <p align="center">
 
 ![aaasoly's github stats](https://github-readme-stats.vercel.app/api?username=aaasoly&show_icons=true&theme=buefy)
 
-</p>
+</div>
 
